@@ -1,0 +1,7 @@
+[
+    { "value": 20, "label": "Low (20g)" },
+    { "value": 40, "label": "Medium (40g)" },
+    { "value": 80, "label": "High (80g)" },
+    { "value": 200, "label": "Diabetes (200g)" }
+  ]
+  

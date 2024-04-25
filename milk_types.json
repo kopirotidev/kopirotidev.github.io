@@ -1,0 +1,7 @@
+[
+  { "type": "Regular", "name": "No", "price": 0 },
+  { "type": "Almond", "name": "Almond Milk", "price": 20 },
+  { "type": "Soya", "name": "Soya Milk", "price": 10 },
+  { "type": "Oat Milk", "name": "Oat Milk", "price": 20 },
+  { "type": "Bonakid", "name": "Bonakid", "price": 50 }
+]

@@ -1,0 +1,7 @@
+[
+    { "id": "addOn1", "name": "Add-on 1", "price": 10 },
+    { "id": "addOn2", "name": "Add-on 2", "price": 20 },
+    { "id": "addOn3", "name": "Add-on 3", "price": 20 },
+    { "id": "addOn4", "name": "Add-on 4", "price": 20 }
+  ]
+  
