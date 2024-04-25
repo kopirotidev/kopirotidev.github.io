@@ -2,6 +2,7 @@
     { "type": "Espresso", "price": "2.50" },
     { "type": "Latte", "price": "3.00" },
     { "type": "Cappuccino", "price": "3.00" },
-    { "type": "Barako Espesyal", "price": "3.00" }
+    { "type": "Barako Espesyal", "price": "3.00" },
+    { "type": "Kapeng Bigas", "price": "30.00" } 
   ]
   
